@@ -1,5 +1,5 @@
-# heart_disease_prediction
-My first ML project using Scikit-Learn
-Libraries used:Scikit-Learn, Numpy, Pandas
+# heart disease prediction
+My first ML project using Scikit-Learn <br>
+Libraries used:Scikit-Learn, Numpy, Pandas <br>
 Model used:Logistic Regression
 
